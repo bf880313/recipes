@@ -1,8 +1,10 @@
 # Hummus
 
 ## Ingredients
-* chichpeas
+* chickpeas
 * lemon
 * olive oil
 * salt
 * secret ingredient
+* chili
+
